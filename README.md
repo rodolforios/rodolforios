@@ -1,7 +1,7 @@
 Meu nome é Rodolfo Rios.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodolforios)](https://github.com/rodolforios)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-rios/)](https://www.linkedin.com/in/rodolfo-rios/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-rios/)](https://www.linkedin.com/in/rodolfo-rios/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodolforios18@gmail.com)](mailto:rodolforios18@gmail.com)
 
 
