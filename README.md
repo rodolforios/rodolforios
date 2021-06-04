@@ -7,7 +7,7 @@ Meu nome é Rodolfo Rios.
 
 
 
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, GitHub e Bootsrap.
+- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, GitHub e Bootstrap.
 - ⚡ Curiosity: Gamer 🎮🎧  apaixonado por progamação!🖥
 
 ## Tecnologias
