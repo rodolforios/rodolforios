@@ -7,7 +7,7 @@ Meu nome é Rodolfo Rios.
 
 
 
-- 🌱 Atualmente estou aprendendo Node.Js, React.js e UX/UI com Adobe XD e Photoshop.
+- 🌱 Atualmente Programo em Node.Js, React.js 
 - ⚡ Curiosity: Gamer 🎮🎧  apaixonado por progamação!🖥
 
 ## Tecnologias
