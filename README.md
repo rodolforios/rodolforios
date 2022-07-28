@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react,Node js, Javascript and TypeScript**
+- 💬 Ask me about **React,Node js, Javascript and TypeScript**
 
 - 📫 How to reach me **rodolforios18@gmail.com**
 
