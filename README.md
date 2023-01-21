@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Rios</h1>
 <h3 align="center">FullStack Developer | JavaScript | Node | React</h3>
 
-- 🔭 I’m currently working on **Here It**
+- 🔭 I’m currently working on **Vinhasoft**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -26,6 +26,10 @@
 
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+
+<h3 align="left">Frontend Development:</h3>
+
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <h3 align="left">Database:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
